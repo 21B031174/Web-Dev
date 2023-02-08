@@ -1,0 +1,180 @@
+.Vvod{
+    /* position: absolute; */
+    /* top: 50%; */
+    /* left: 50%; */
+    border: 1px solid rgba(219, 219, 219, 1);
+}
+.Main{
+    position: absolute;
+    top: 42%;
+    left: 50%;
+
+    transform: translate(-53%, -45%);
+    font-family: sans-serif;
+}
+input[type="text"] {
+    width: 268px;
+    height: 38px;
+    background-color: #F0F0F0;
+    border: 1px solid rgba(219, 219, 219, 1);
+    margin-top: 200px;
+    margin: 2px 40px;
+    border-radius: 2px;
+    outline: none;
+    margin-top: 40px;
+    
+}
+input[type="text"]:focus{
+    border-color: rgb(167,167,167);
+}
+input[type="password"] {
+    width: 268px;
+    height: 38px;
+    background-color: #fafafa;
+    border: 1px solid rgba(219, 219, 219, 1);
+    margin-top: 200px;
+    margin: 2px 40px;
+    border-radius: 2px;
+    outline: none;
+    margin-top: 5px;
+}
+input[type="password"]:focus{
+    border-color: rgb(167,167,167);
+}
+.instaWord{
+    margin-top: 200px;
+    margin: 2px 40px; 
+    top: 50%;
+    left: 50%;
+    margin-top: 40px;
+}
+button{
+    width: 268px;
+    height: 32px;
+    background-color: rgba(103, 182, 250, 1);
+    border: 2px solid rgba(219, 219, 219, 0);
+    margin-top: 220px;
+    margin: 2px 40px;
+    border-radius: 10px;
+    color: white;
+    margin-top: 20px;
+}
+
+.Ins{
+    display: block;
+    margin: auto;
+}
+.Line{
+    flex-grow: 1;
+}
+
+.ForgotP{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    height: 50px;
+}
+.Facebook{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    /* color: rgb(142,142,142); */
+
+}
+.ILI{
+    display: flex;
+    
+    justify-content: center;
+    
+    color: rgb(142,142,142);
+    margin-top: 20px;
+}   
+
+a:visited{
+    color: #8e8e8e;
+
+}
+a:active{
+    color: #8e8e8e;
+}
+
+a{
+    text-decoration: none;
+}
+#Za:visited{
+    color: rgb(56, 81, 133);
+}
+#Za:active{
+    color: rgb(56, 81, 133);
+}
+#VChFabk:active{
+    color: rgb(56, 81, 133);
+}
+#VChFabk:visited{
+    color: rgb(56, 81, 133);
+}
+#Zabyl:visited{
+    color: rgb(56, 81, 133);
+}
+#Zabyl:active{
+    color: rgb(56, 81, 133);
+}
+
+
+.accSet{
+    top: 630px;
+    left: 144px;
+    border: 1px solid rgba(219, 219, 219,1);
+    font-family: sans-serif;
+    margin-top: 10px;
+       
+}
+#Za{
+    color: rgb(0, 149, 246);
+}
+.LeftElements{
+    float: right;
+    margin-right: -45px;
+    
+}
+
+.RightElements{
+    float: left;
+    margin-left: -40px;
+    margin-top: -83%;
+}
+#Ust{
+    display: flex;
+    justify-content: center;
+}
+.TwoPhotos{
+    display: flex;
+    justify-content: center;
+}
+.firsPhoth{
+    margin-right: 4px;
+}
+.SecondPhoth{
+    margin-left: 4px;
+}
+
+#foot{
+    position:absolute;
+    bottom:0;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    font-family:sans-serif;
+}
+select{
+    border: none;
+    color: #8e8e8e;
+    height: 25px;
+    width: 80px;
+    font-size: 14px;
+}
+.instagramPhotos{
+    height: 500.15px;
+    
+}
