@@ -1,0 +1,79 @@
+*{
+    margin: 0%;
+}
+
+
+header {
+    color: rgb(209, 202, 202);
+    justify-content: space-between;
+    padding: 0 20px;
+    box-shadow: 0 10px 5px rgba(0, 0, 0, 0.1);
+    background-color: #120d0d; 
+    font-family: sans-serif ;
+    height: 50px;
+}
+#headid{ 
+    font-size: 20px; 
+    font-weight: 300; 
+    color: #464c52;
+    margin-bottom: 1rem; 
+    padding-left: 100px;
+    padding-top: 15px;
+}
+body{
+    font-family: sans-serif;
+}
+.content{
+    padding: 40px;
+    margin: 0 auto 0 400px;
+    max-width: 800px;
+}
+#inp{
+    margin-left: 100px;
+    border: 1px solid rgb(150, 144, 144);
+    border-radius: 2px;
+    width: 500px;
+    height: 25px;
+    text-indent: 10px;
+}
+#inp:focus{
+    outline: none;
+}
+.Add{
+    padding-top: 20px;
+}
+#but{
+    color: white;
+    padding: 7px;
+    border: 1px solid rgb(26, 98, 253);
+    border-radius: 3px;
+    background-color: rgb(26, 98, 253);
+    
+}
+div[class$="chek"]{
+    padding-left:15px;
+    display: flex;
+    align-items: center;
+    border: 1px solid rgb(150, 144, 144);
+    border-radius: 2px;
+    width: 700px;
+    height: 50px;
+    margin-left: 440px;
+}
+p[class$="Tags"]{
+    padding-left:84px;
+}
+.del{
+    width: 10px;
+    height: 15px;
+    background-color: red;
+    left: 1020px;
+    position: fixed;
+    
+    
+}
+
+p[class$="NewClass"]{
+    text-decoration: line-through;
+    padding-left:84px;
+}

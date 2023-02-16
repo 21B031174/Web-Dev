@@ -1,0 +1,1 @@
+let massage = (login == "Enployee") ? "Hello": (login == "Director")? "Greetings": (login == "")?"No login":"";
