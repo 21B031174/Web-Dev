@@ -1,0 +1,35 @@
+
+<div class="card" *ngFor="let product of products">
+    <h3 style="margin-top: 0">
+        <a [title]="product.name + ' details'">
+            {{ product.name }}
+        </a>
+    </h3>
+    <div class="card-image">
+        <img [src]=product.img alt="">
+    </div>
+
+    <p *ngIf="product.description">
+        Description: {{ product.description }}
+    </p>
+    <div class="share">
+        <button type="button" (click)="share(product.src)" >
+            Share
+        </button>
+
+        <app-product-alerts
+                [product]="product"
+                (notify)="Buy(product.src)">
+        </app-product-alerts>
+
+        <span>
+            rating: {{product.rating}}
+        </span>
+    </div>
+</div>
+
+<!-- 
+Copyright Google LLC. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at https://angular.io/license
+-->
