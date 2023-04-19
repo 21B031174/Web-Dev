@@ -1,0 +1,12 @@
+<p>company-details works!</p>
+
+<ul>
+  <li>
+    <p><a [routerLink]="['/companies/'+company.id+'/vacancies']">id</a>:{{company.id}}, name: {{company.name}}</p>
+    <p>description : {{company.description}}</p>
+  </li>
+</ul>
+
+<div>
+  <button (click)="goBack()">Go Back</button>
+</div>
