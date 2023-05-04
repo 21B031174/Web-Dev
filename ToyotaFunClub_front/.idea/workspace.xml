@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8b6a02d-ce56-452b-8eeb-14e07486897c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lab10/hh_back/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10/hh_back/api/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10/hh_back/api/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10/hh_back/api/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10/hh_back/api/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10/hh_back/api/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10/hh_back/hh_back/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10/hh_back/hh_back/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10/hh_back/hh_back/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10/hh_back/hh_back/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10/hh_back/hh_back/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10/hh_back/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10/hh_front/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4/.idea/Lab4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5/.idea/Lab4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/.idea/Lab4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab9/hh_back/.idea/hh_back.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="2PIbDOTOqx6wHV3ZghNoTBNTdY4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/elsanarsen/Desktop/Web-Dev/ToyotaFunClub_front",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Users/elsanarsen/Desktop/Web-Dev/ToyotaFunClub_front/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Tests (ToyotaFunClub)" type="JavaScriptTestRunnerKarma">
+      <config-file value="$PROJECT_DIR$/karma.conf.js" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8b6a02d-ce56-452b-8eeb-14e07486897c" name="Changes" comment="" />
+      <created>1683147423189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683147423189</updated>
+      <workItem from="1683147424305" duration="203000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

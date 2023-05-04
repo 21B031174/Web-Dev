@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const MODELS = [{\n  id: 1,\n  name: \"Corolla\"\n}, {\n  id: 2,\n  name: \"Camry\"\n}, {\n  id: 3,\n  name: \"Avalon\"\n}, {\n  id: 4,\n  name: \"Rav4\"\n}, {\n  id: 5,\n  name: \"Highlander\"\n}, {\n  id: 6,\n  name: \"Land Cruiser\"\n}, {\n  id: 7,\n  name: \"Sequoia\"\n}];","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
